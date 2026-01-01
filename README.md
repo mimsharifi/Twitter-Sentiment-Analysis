@@ -19,3 +19,5 @@ The Sentiment140 dataset contains 1.6 million tweets labeled as positive or nega
 * Trained and compared Logistic Regression, Naive Bayes, SVM and Random Forest Models.
 * Evaluated performance with metrics and visualizations.
 * Added a practical application function(Testing).
+
+Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
